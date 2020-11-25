@@ -1,0 +1,2 @@
+ISim log file
+Running: C:\.Xilinx\HW6475LP\HW6Test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/.Xilinx/HW6475LP/HW6Test_isim_beh.wdb 
